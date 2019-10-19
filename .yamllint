@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/blue-night.yaml"
+  - "themes/blue_night.yaml"
 
 rules:
   braces:
