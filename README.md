@@ -52,7 +52,7 @@ frontend:
 2. Search for `Blue Night`.
 3. Navigate to `Blue Night` theme.
 4. Press `Install`.
-5. Restart Home Assistant to make it show up.
+Go to services and trigger the `frontend.reload_themes` service.
 
 ### Manual
 
