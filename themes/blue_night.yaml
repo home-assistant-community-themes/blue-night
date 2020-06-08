@@ -85,3 +85,4 @@ blue_night:
   table-row-alternative-background-color: "hsl(var(--huesat) 10%)"
   table-row-background-color: "hsl(var(--huesat) 12%)"
   text-primary-color: "hsl(var(--huesat) 90%)"
+  markdown-code-background-color: "hsl(var(--huesat) 16%)"
