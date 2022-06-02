@@ -1,7 +1,7 @@
 # Blue Night Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/blue-night.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/blue-night)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Blue Night Theme by ksya
 
